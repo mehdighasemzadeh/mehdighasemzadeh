@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**mehdighasemzadeh/mehdighasemzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mehdi Ghasemzadeh
 
-Here are some ideas to get you started:
+Computer Vision & Edge AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- NVIDIA Jetson
+- TensorRT
+- DeepStream
+- Object Detection
+- Multi-Object Tracking
+- ROS2
+- PX4
+- Sensor Fusion
+- Event Cameras
+
+## Current Focus
+
+Deploying real-time AI systems on embedded platforms.
