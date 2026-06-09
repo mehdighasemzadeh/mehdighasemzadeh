@@ -32,7 +32,7 @@ My work focuses on deploying efficient computer vision pipelines on resource-con
 - MAVLink
 - Optical Flow
 - Sensor Fusion
-- UAV Vision Systems
+- Multirotor Vision Systems
 
 ---
 
@@ -80,7 +80,7 @@ Detection-based and density-based crowd counting systems using deep learning.
 - NVIDIA Jetson Deployment
 - Multi-Object Tracking
 - Robotics Perception
-- Drone Vision Systems
+- Multirotor Vision Systems
 
 ---
 
