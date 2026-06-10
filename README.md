@@ -70,10 +70,37 @@ Hybrid tracking systems combining deep learning with classical methods (KCF, CSR
 
 <div align="justify">
 
-*   **Languages:** Python, C/C++
-*   **AI & Vision:** PyTorch, OpenCV, Vision Transformers, CNNs
-*   **Edge & Deployment:** TensorRT, ONNX, CUDA, GStreamer, NVIDIA Jetson Ecosystem, Docker
-*   **Robotics & OS:** PX4, Pixhawk, MAVLink, ROS/ROS2, Ubuntu Linux
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**AI & Computer Vision**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-4B32C3?style=flat)
+![CNNs](https://img.shields.io/badge/CNNs-4B32C3?style=flat)
+
+**Edge Deployment & Hardware**<br>
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-4B32C3?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+
+**Robotics & Simulation**<br>
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-010101?style=flat)
+![Pixhawk](https://img.shields.io/badge/Pixhawk-111111?style=flat)
+![MAVLink](https://img.shields.io/badge/MAVLink-222222?style=flat)
+![Carla](https://img.shields.io/badge/Carla_Simulator-1B1C1D?style=flat)
+![AirSim](https://img.shields.io/badge/AirSim-1B1C1D?style=flat)
+
+**OS & Tools**<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
 
