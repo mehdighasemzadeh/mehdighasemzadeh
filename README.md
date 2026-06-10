@@ -1,101 +1,35 @@
-# Mehdi Ghasemzadeh
+# Hi there, I'm Mehdi Ghasemzadeh 👋
 
-### Computer Vision & Edge AI Engineer
+**Senior Computer Vision & Artificial Intelligence Engineer**
 
-I develop real-time AI systems for robotics, drones, and embedded platforms.
+I specialize in bridging the gap between cutting-edge computer vision research and real-world deployment. With a strong background in AI and Electrical Engineering, I build, optimize, and deploy high-performance vision pipelines for edge devices, and autonomous systems. 
 
-My work focuses on deploying efficient computer vision pipelines on resource-constrained hardware, with experience in NVIDIA Jetson, TensorRT optimization, multi-object tracking, sensor fusion, and autonomous systems.
+I am currently open to freelance opportunities and consulting projects.
 
----
+## 🛠️ What I Can Build for You
 
-## Areas of Expertise
+*   **Edge AI & Hardware Optimization:** Transitioning heavy models to run in real-time. Expertise in hardware-accelerated video processing using **TensorRT** and **GStreamer** on edge devices like **NVIDIA Jetson Orin NX**, **Rockchip RK3588**, and **Raspberry Pi 5**.
+*   **UAV & Robotics Autonomy:** Developing robust visual navigation and autonomous systems. Experienced in integrating vision pipelines with flight controllers (**PX4, Pixhawk**) and handling **MAVLink** communications.
+*   **Sensor Fusion & Depth Estimation:** Multi-modal sensor fusion involving **Event cameras**, **RGB cameras**, and **LiDAR** for dense depth estimation and complex scene understanding.
+*   **Advanced Object Tracking:** Building custom tracking pipelines. Currently developing a high-performance hybrid single-object tracking and trajectory prediction system combining deep learning with CSRT and KCF trackers.
 
-### Embedded AI
-- NVIDIA Jetson (Orin NX / Orin Nano)
-- TensorRT Optimization
-- DeepStream SDK
-- CUDA
-- Real-Time Inference
-- Edge AI Deployment
+## 💻 Technical Arsenal
 
-### Computer Vision
-- Object Detection
-- Multi-Object Tracking
-- Re-Identification (Re-ID)
-- Semantic Segmentation
-- Event-Based Vision
-- Depth Estimation
+*   **Languages:** Python, C/C++ 
+*   **Computer Vision & Deep Learning:** PyTorch, OpenCV, CUDA, CNNs, Vision Transformers
+*   **Edge & Hardware:** NVIDIA Jetson architecture, Raspberry Pi, TensorRT, GStreamer
+*   **Robotics:** PX4, Pixhawk, MAVLink
+*   **Environment & OS:** Ubuntu Linux
 
-### Robotics & Autonomous Systems
-- ROS2
-- PX4 Autopilot
-- MAVLink
-- Optical Flow
-- Sensor Fusion
-- Multirotor Vision Systems
+## 📈 My Approach to Code
 
----
+Clients need solutions that work in production, not just in a notebook. I focus on delivering:
+*   **Efficient Architecture:** Avoiding bloated boilerplate to deliver clean, maintainable, and easily hand-offable codebases. 
+*   **Hardware-Aware Design:** Models trained with the target edge device's constraints in mind from day one.
+*   **Reproducibility:** Clear documentation and environment setup instructions for seamless integration into your existing systems.
 
-## Hardware Experience
+## 📫 Let's Connect
 
-- NVIDIA Jetson Orin NX 16GB
-- NVIDIA Jetson Orin Nano
-- Raspberry Pi 5
-- Event Cameras
-- LiDAR Sensors
-- USB Global Shutter Cameras
+Looking for a CV engineer to optimize your edge models, process multi-modal sensor data, or build a reliable tracking pipeline? Let's talk.
 
----
-
-## Featured Projects
-
-### Hybrid-SOT-Trajectory-Predictor
-A high-performance object tracking framework integrating:
-
-- YOLO11
-- RT-DETR
-- Classical SOT Trackers
-- Trajectory Prediction
-- Deep Re-Identification Recovery
-- Multi-Threaded Architecture
-
-### Event-Based Semantic Segmentation
-Semantic segmentation using event camera data for efficient perception in dynamic environments.
-
-### Event-Frame-Based Semantic Segmentation
-Fusion of event-based and frame-based visual information for robust scene understanding.
-
-### Camera-LiDAR Depth Estimation
-Depth estimation through camera and LiDAR sensor fusion for robotics and autonomous navigation.
-
-### Crowd Counting
-Detection-based and density-based crowd counting systems using deep learning.
-
----
-
-## Current Focus
-
-- Real-Time Vision Systems
-- Edge AI Optimization
-- NVIDIA Jetson Deployment
-- Multi-Object Tracking
-- Robotics Perception
-- Multirotor Vision Systems
-
----
-
-## Publications
-
-ORCID:
-https://orcid.org/0000-0001-9503-4462
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/mehdighasemzadeh
-- Email: ghasemzadehmehdi07@gmail.com
-
----
-
-> Open to collaborations and freelance opportunities in Computer Vision, Robotics, Embedded AI, and Edge Computing.
+*   **Email:** [ghasemzadehmehdi07@gmail.com]
