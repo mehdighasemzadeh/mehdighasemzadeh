@@ -1,50 +1,93 @@
-# Hi there, I'm Mehdi Ghasemzadeh 👋
+# 👋 Hi, I’m Mehdi Ghasemzadeh
 
-**Senior Computer Vision & Artificial Intelligence Engineer**
-
-<div align="justify">
-I specialize in bridging the gap between cutting-edge computer vision research and real-world deployment. With a strong background in AI and Electrical Engineering, I build, optimize, and deploy high-performance vision pipelines for edge devices and autonomous systems. 
-
-I am currently open to freelance opportunities and consulting projects.
-</div>
-
-## 🛠️ What I Can Build for You
+**Computer Vision & Edge AI Engineer | Robotics & Autonomous Systems Developer**
 
 <div align="justify">
-
-*   **Edge AI & Hardware Optimization:** Transitioning heavy models to run in real-time. Expertise in hardware-accelerated video processing using **TensorRT** and **GStreamer** on edge devices like **NVIDIA Jetson Orin NX**, **Rockchip RK3588**, and **Raspberry Pi 5**.
-*   **UAV & Robotics Autonomy:** Developing robust visual navigation and autonomous systems. Experienced in integrating vision pipelines with flight controllers (**PX4, Pixhawk**) and handling **MAVLink** communications.
-*   **Sensor Fusion & Depth Estimation:** Multi-modal sensor fusion involving **Event cameras**, **RGB cameras**, and **LiDAR** for dense depth estimation and complex scene understanding.
-*   **Advanced Object Tracking:** Building custom tracking pipelines. Currently developing a high-performance hybrid single-object tracking and trajectory prediction system combining deep learning with CSRT and KCF trackers.
-
-</div>
-
-## 💻 Technical Arsenal
-
-*   **Languages:** Python, C/C++ 
-*   **Computer Vision & Deep Learning:** PyTorch, OpenCV, CUDA, CNNs, Vision Transformers
-*   **Edge & Hardware:** NVIDIA Jetson architecture, Raspberry Pi, TensorRT, GStreamer
-*   **Robotics:** PX4, Pixhawk, MAVLink
-*   **Environment & OS:** Ubuntu Linux
-
-## 📈 My Approach to Code
-
-<div align="justify">
-Clients need solutions that work in production, not just in a notebook. I focus on delivering:
+I help companies and startups turn computer vision models into fast, reliable, real-time systems on edge devices such as NVIDIA Jetson, Raspberry Pi, and embedded GPUs. My focus is not just model development, but building complete, production-ready AI systems that work in real-world conditions.
 </div>
 
 <div align="justify">
-
-*   **Efficient Architecture:** Avoiding bloated boilerplate to deliver clean, maintainable, and easily hand-offable codebases. 
-*   **Hardware-Aware Design:** Models trained with the target edge device's constraints in mind from day one.
-*   **Reproducibility:** Clear documentation and environment setup instructions for seamless integration into your existing systems.
-
+<em>I am currently open to freelance and consulting opportunities.</em>
 </div>
 
-## 📫 Let's Connect
+---
+
+## 🛠️ What I Can Help You Build
 
 <div align="justify">
-Looking for a CV engineer to optimize your edge models, process multi-modal sensor data, or build a reliable tracking pipeline? Let's talk.
+<strong>⚡ Edge AI Deployment & Optimization</strong><br>
+I optimize deep learning models for real-time performance on constrained hardware using TensorRT, ONNX, CUDA, and NVIDIA Jetson platforms (Orin NX, Nano, Xavier).
 </div>
 
-*   **Email:** ghasemzadehmehdi07@gmail.com
+> **Result:** Lower latency, faster inference, and production-ready deployment.
+
+<div align="justify">
+<strong>👁️ Real-Time Computer Vision Systems</strong><br>
+End-to-end development of object detection, tracking, segmentation, and multi-camera video processing pipelines.
+</div>
+
+> **Result:** Stable and scalable CV systems for real-world use.
+
+<div align="justify">
+<strong>🚁 Autonomous Drone & Robotics Vision</strong><br>
+Vision-based autonomy systems, including navigation, obstacle avoidance, and integration with PX4/Pixhawk and MAVLink.
+</div>
+
+> **Result:** Reliable autonomous behavior in complex, dynamic environments.
+
+<div align="justify">
+<strong>🌐 Multi-Sensor Fusion Systems</strong><br>
+Fusion of RGB cameras, depth sensors, LiDAR, and event cameras for robust perception.
+</div>
+
+> **Result:** Improved accuracy and system resilience in challenging conditions.
+
+<div align="justify">
+<strong>🎯 Tracking & Motion Intelligence Systems</strong><br>
+Hybrid tracking systems combining deep learning with classical methods (KCF, CSRT), including multi-object tracking and trajectory prediction.
+</div>
+
+> **Result:** Robust, uninterrupted tracking even in difficult visual scenarios.
+
+---
+
+## 📊 Selected Experience
+
+<div align="justify">
+
+*   **Edge Optimization:** Real-time YOLO-based detection system optimized for NVIDIA Jetson devices.
+*   **Motion Intelligence:** Engineered a streamlined, highly efficient 2,000-line hybrid object tracking codebase combining deep learning and classical SOT methods.
+*   **UAV Integration:** Vision modules integrated with PX4/Pixhawk using MAVLink protocols.
+*   **Perception:** Multi-sensor perception systems built for advanced robotics applications.
+
+*(Feel free to explore my pinned repositories below for code samples and deployment metrics).*
+
+</div>
+
+---
+
+## 💻 Technical Stack
+
+<div align="justify">
+
+*   **Languages:** Python, C/C++
+*   **AI & Vision:** PyTorch, OpenCV, Vision Transformers, CNNs
+*   **Edge & Deployment:** TensorRT, ONNX, CUDA, GStreamer, NVIDIA Jetson Ecosystem, Docker
+*   **Robotics & OS:** PX4, Pixhawk, MAVLink, ROS/ROS2, Ubuntu Linux
+
+</div>
+
+---
+
+## 📫 Let’s Work Together
+
+<div align="justify">
+I’m available for freelance and consulting work in Edge AI, computer vision systems, and robotics perception pipelines.
+</div>
+
+<div align="justify">
+
+*   **📩 Email:** ghasemzadehmehdi07@gmail.com
+
+
+</div>
