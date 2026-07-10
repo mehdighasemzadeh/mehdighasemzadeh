@@ -3,7 +3,10 @@
 **Computer Vision & Edge AI Engineer | Robotics & Autonomous Systems Developer**
 
 <div align="justify">
-I help companies and startups turn computer vision models into fast, reliable, real-time systems on edge devices such as NVIDIA Jetson, Raspberry Pi, and embedded GPUs. My focus is not just model development, but building complete, production-ready AI systems that work in real-world conditions.
+
+I design and deploy production-ready Computer Vision and Edge AI systems for robotics, autonomous drones, and embedded platforms. My work spans the complete development pipeline—from deep learning research and multi-sensor perception to real-time optimization on resource-constrained hardware such as NVIDIA Jetson, Raspberry Pi, and Rockchip RK3588.
+I enjoy solving practical engineering challenges where accuracy, latency, and reliability are equally important.
+
 </div>
 
 <div align="justify">
