@@ -77,37 +77,52 @@ Hybrid tracking systems combining deep learning with classical methods (KCF, CSR
 
 <div align="justify">
 
-**Languages**<br>
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-**AI & Computer Vision**<br>
+---
+
+### AI & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-4B32C3?style=flat)
-![CNNs](https://img.shields.io/badge/CNNs-4B32C3?style=flat)
-
-**Edge Deployment & Hardware**<br>
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-![GStreamer](https://img.shields.io/badge/GStreamer-4B32C3?style=flat)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![RKNN Toolkit](https://img.shields.io/badge/RKNN-2D7FF9?style=flat)
 
-**Robotics & Simulation**<br>
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+---
+
+### Robotics & Autonomous Systems
 ![PX4](https://img.shields.io/badge/PX4-010101?style=flat)
 ![Pixhawk](https://img.shields.io/badge/Pixhawk-111111?style=flat)
 ![MAVLink](https://img.shields.io/badge/MAVLink-222222?style=flat)
-![Carla](https://img.shields.io/badge/Carla_Simulator-1B1C1D?style=flat)
-![AirSim](https://img.shields.io/badge/AirSim-1B1C1D?style=flat)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
-**OS & Tools**<br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+---
+
+### Embedded AI Platforms
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Rockchip RK3588](https://img.shields.io/badge/RK3588-0052CC?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+---
+
+### Parallel & High-Performance Computing
+![OpenMP](https://img.shields.io/badge/OpenMP-0078D7?style=flat)
+![MPI](https://img.shields.io/badge/MPI-4B32C3?style=flat)
+
+---
+
+### Simulation & Development Tools
+![CARLA](https://img.shields.io/badge/CARLA-1B1C1D?style=flat)
+![AirSim](https://img.shields.io/badge/AirSim-1B1C1D?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
