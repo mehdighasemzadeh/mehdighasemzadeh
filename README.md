@@ -58,12 +58,47 @@ Hybrid tracking systems combining deep learning with classical methods (KCF, CSR
 
 <div align="justify">
 
-*   **Edge Optimization:** Real-time YOLO-based detection system optimized for NVIDIA Jetson devices.
-*   **Motion Intelligence:** Engineered a streamlined, highly efficient 2,000-line hybrid object tracking codebase combining deep learning and classical SOT methods.
-*   **UAV Integration:** Vision modules integrated with PX4/Pixhawk using MAVLink protocols.
-*   **Perception:** Multi-sensor perception systems built for advanced robotics applications.
+### 🚁 Embedded Edge AI for Autonomous UAVs
+Designed and deployed real-time computer vision pipelines for autonomous UAVs on resource-constrained embedded platforms, integrating object detection, tracking, and flight control.
 
-*(Feel free to explore my pinned repositories below for code samples and deployment metrics).*
+**Technologies:** RK3588 NPU, NVIDIA Jetson, Raspberry Pi, PX4, MAVLink, TensorRT, RKNN Toolkit
+
+---
+
+### 🎯 Real-Time Object Detection & Tracking
+Developed hybrid tracking systems that combine deep learning detectors with classical tracking algorithms and state estimation to improve robustness under occlusions, motion blur, and temporary target loss.
+
+**Highlights**
+- YOLO-based detection
+- Hybrid SOT architecture
+- Kalman filtering
+- Long-term target tracking
+- Trajectory prediction
+
+---
+
+### 🌐 Multi-Modal Perception Systems
+Built perception pipelines that fuse RGB images, event cameras, and LiDAR data for semantic understanding and depth estimation in robotics applications.
+
+**Projects**
+- Event-based Semantic Segmentation
+- Camera–LiDAR Depth Estimation
+- Multi-sensor fusion research
+
+---
+
+### ⚡ Edge AI Optimization
+Optimized deep learning models for embedded inference using hardware acceleration, model quantization, and deployment frameworks to achieve real-time performance on edge devices.
+
+**Platforms**
+- NVIDIA Jetson
+- Rockchip RK3588
+- Raspberry Pi
+
+---
+
+### 👥 Computer Vision Applications
+Implemented practical computer vision systems including crowd counting, object detection, image processing, and intelligent estimation algorithms across both research and industrial projects.
 
 </div>
 
